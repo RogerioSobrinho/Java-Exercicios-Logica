@@ -1,2 +1,2 @@
-# Java-Exercicios-Logica
-Exercicios de Lógica utilizando a linguagem java - Puramente para testes com base em um processo seletivo
+# Java logic exercises
+Logic Exercises using java language - only for tests based on a selective process
